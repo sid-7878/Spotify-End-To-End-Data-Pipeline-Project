@@ -6,7 +6,7 @@ This project demonstrates a fully automated data engineering pipeline that extra
 
 ## 🛠️ Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](architecture diagram.png)
 
 *Please ensure the architecture diagram image is saved as `architecture_diagram.png` and placed in the `assets/images` directory of your repository.*
 
