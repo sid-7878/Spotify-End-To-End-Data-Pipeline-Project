@@ -5,6 +5,7 @@
 ## 🚀 Overview
 
 This project demonstrates a fully automated data engineering pipeline that extracts, processes, and analyzes Spotify's Global Top Songs using APIs and AWS services. It showcases how modern cloud-native tools can enable seamless ETL workflows and facilitate advanced analytics.
+📄 **Project Documentation:** [Spotify Data Pipeline](<Spotify_End-To-End_Data_Pipeline_Project>)
 
 ## 🛠️ Architecture Diagram
 
